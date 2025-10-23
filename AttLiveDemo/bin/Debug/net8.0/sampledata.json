@@ -1,0 +1,12 @@
+[
+  { "FirstName": "Alice", "LastName": "Johnson", "HiringDate": "2018-03-12", "Department": "Engineering", "Job Title": "Software Engineer" },
+  { "FirstName": "Bob", "LastName": "Smith", "HiringDate": "2019-07-01", "Department": "Sales", "Job Title": "Account Manager" },
+  { "FirstName": "Carol", "LastName": "Lee", "HiringDate": "2020-11-20", "Department": "HR", "Job Title": "HR Specialist" },
+  { "FirstName": "David", "LastName": "Kim", "HiringDate": "2017-05-15", "Department": "Engineering", "Job Title": "DevOps Engineer" },
+  { "FirstName": "Eve", "LastName": "Martinez", "HiringDate": "2021-01-04", "Department": "Marketing", "Job Title": "Marketing Coordinator" },
+  { "FirstName": "Frank", "LastName": "Nguyen", "HiringDate": "2016-09-30", "Department": "Finance", "Job Title": "Financial Analyst" },
+  { "FirstName": "Grace", "LastName": "O'Connor", "HiringDate": "2022-06-18", "Department": "Product", "Job Title": "Product Manager" },
+  { "FirstName": "Hector", "LastName": "Ramos", "HiringDate": "2015-12-02", "Department": "Support", "Job Title": "Support Engineer" },
+  { "FirstName": "Ivy", "LastName": "Singh", "HiringDate": "2023-02-14", "Department": "Design", "Job Title": "UX Designer" },
+  { "FirstName": "Jack", "LastName": "Thompson", "HiringDate": "2014-08-25", "Department": "Engineering", "Job Title": "Principal Engineer" }
+]

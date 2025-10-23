@@ -37,3 +37,4 @@
 /workspaces/AndrewGH2007New/AttLiveDemo/obj/Debug/net8.0/AttLiveDemo.pdb
 /workspaces/AndrewGH2007New/AttLiveDemo/obj/Debug/net8.0/AttLiveDemo.genruntimeconfig.cache
 /workspaces/AndrewGH2007New/AttLiveDemo/obj/Debug/net8.0/ref/AttLiveDemo.dll
+/workspaces/AndrewGH2007New/AttLiveDemo/bin/Debug/net8.0/sampledata.json
